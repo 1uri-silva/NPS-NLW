@@ -22,6 +22,8 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 ```bash
 ##clone o repositório
 - git clone https://github.com/rd-easy/NPS-NLW.git
+##entre no diretório
+- cd NPS_NLW
 ##instale as dependências
 - yarn install ou npm install
 ##inicie o servidor
