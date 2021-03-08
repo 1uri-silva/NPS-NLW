@@ -4,12 +4,12 @@ Criado na NLW-04 NodeJs
 ---
 🌟 Tecnologias
 
--[TypeScript](https://www.typescriptlang.org/)\
--[ethereal](https://ethereal.email/)\
--[TypeORM](https://typeorm.io/#/)\
--[Express](https://expressjs.com/)\
--[Jest](https://jestjs.io/)\
--[BeekeeperStudio](https://www.beekeeperstudio.io/)
+- [TypeScript](https://www.typescriptlang.org/)\
+- [ethereal](https://ethereal.email/)\
+- [TypeORM](https://typeorm.io/#/)\
+- [Express](https://expressjs.com/)\
+- [Jest](https://jestjs.io/)\
+- [BeekeeperStudio](https://www.beekeeperstudio.io/)
 
 ---
 💻 Projeto
