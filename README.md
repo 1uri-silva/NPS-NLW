@@ -4,12 +4,12 @@ Criado na NLW-04 NodeJs
 ---
 🌟 Tecnologias
 
-[TypeScript](https://www.typescriptlang.org/)\
-[ethereal](https://ethereal.email/)\
-[TypeORM](https://typeorm.io/#/)\
-[Express](https://expressjs.com/)\
-[Jest](https://jestjs.io/)\
-[BeekeeperStudio](https://www.beekeeperstudio.io/)
+-[TypeScript](https://www.typescriptlang.org/)\
+-[ethereal](https://ethereal.email/)\
+-[TypeORM](https://typeorm.io/#/)\
+-[Express](https://expressjs.com/)\
+-[Jest](https://jestjs.io/)\
+-[BeekeeperStudio](https://www.beekeeperstudio.io/)
 
 ---
 💻 Projeto
@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 ##clone o repositório
 - git clone https://github.com/rd-easy/NPS-NLW.git
 ##entre no diretório
-- cd NPS_NLW
+- cd NPS-NLW
 ##instale as dependências
 - yarn install ou npm install
 ##inicie o servidor
